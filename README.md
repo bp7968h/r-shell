@@ -25,7 +25,7 @@ To build and run the r-shell, you will need:
 ## Installation
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/r-shell.git
+   git clone https://github.com/bpandit/r-shell.git
    cd r-shell
    ```
 
